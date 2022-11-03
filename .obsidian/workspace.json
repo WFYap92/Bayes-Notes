@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "31660f3f7e4f1fad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a73936ad3fb327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8caa2299d55b3966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A new start for Newton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f7fa668b313bf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae4fc4b57f914dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4786bdaa3faa940",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0ac729295ea76d56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50a22a5e8247044e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75cb759a0cf47e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2257f14d80c71d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A new start for Newton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e0cb515a1a314932",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8caa2299d55b3966",
+  "lastOpenFiles": [
+    "Communication/Boundaries.md",
+    "Communication/Communication.md",
+    "Communication/Workplace.md",
+    "Communication/Personal Branding.md",
+    "Communication/Vid from sang.md",
+    "Communication/Sales Fundamentals.md",
+    "Interviews/Baynes.md",
+    "Science/Psychology/Sessions with Dr. Felicia.md",
+    "Tech/SQL/SQL Syntax.md",
+    "Daily to dos/25-10-2022.md"
+  ]
+}
