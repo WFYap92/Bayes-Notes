@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5a73936ad3fb327",
+        "id": "1f1de9544d23a175",
         "type": "tabs",
         "children": [
           {
-            "id": "8caa2299d55b3966",
+            "id": "fec4fcfd265ff920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A new start for Newton.md",
+                "file": "Current Projects/Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A new start for Newton.md",
+                "file": "Current Projects/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8caa2299d55b3966",
+  "active": "fec4fcfd265ff920",
   "lastOpenFiles": [
+    "A new start for Newton.md",
+    "General/Useful Obsidian Tricks.md",
+    "General/Email.md",
+    "Current Projects/Presentation.md",
     "Communication/Boundaries.md",
     "Communication/Communication.md",
     "Communication/Workplace.md",
     "Communication/Personal Branding.md",
     "Communication/Vid from sang.md",
-    "Communication/Sales Fundamentals.md",
-    "Interviews/Baynes.md",
-    "Science/Psychology/Sessions with Dr. Felicia.md",
-    "Tech/SQL/SQL Syntax.md",
-    "Daily to dos/25-10-2022.md"
+    "Communication/Sales Fundamentals.md"
   ]
 }
