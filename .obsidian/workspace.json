@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Vertical.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "210d11b1f1019bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Current Projects/Presentation.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fec4fcfd265ff920",
+  "active": "210d11b1f1019bbf",
   "lastOpenFiles": [
-    "A new start for Newton.md",
-    "General/Useful Obsidian Tricks.md",
-    "General/Email.md",
+    "Vertical.md",
     "Current Projects/Presentation.md",
+    "General/Useful Obsidian Tricks.md",
+    "Challenges and Obstacles.md",
+    "A new start for Newton.md",
+    "General/Email.md",
     "Communication/Boundaries.md",
     "Communication/Communication.md",
     "Communication/Workplace.md",
-    "Communication/Personal Branding.md",
-    "Communication/Vid from sang.md",
-    "Communication/Sales Fundamentals.md"
+    "Communication/Personal Branding.md"
   ]
 }
