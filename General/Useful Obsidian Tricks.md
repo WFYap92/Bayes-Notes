@@ -1,8 +1,12 @@
 ## Create a link
 
+https://help.obsidian.md/How+to/Format+your+notes (If needed)
+
 You create two notes and link them together using the \[[double bracket syntax]].
 
 Interlinks a \[[Dictionary#Addition|Addition]] Displays the word Addition and clicking on it links to the header called __"Addition"__ from the Dictionary note. 
+
+External links like \[Obsidian](http://obsidian.md) appears as [Obsidian](http://obsidian.md)
 
 ## Formatting
 *Italics* can be done using  either \ * or the \ _ before the word. Remember to close it with another \ *  or \  _ .
