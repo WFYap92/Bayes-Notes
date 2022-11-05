@@ -22,7 +22,7 @@ OR
 
 ---
 Why pursue a Sales Role as a Career choice?
-- Few industries can pay you more as you put in more effort.
+- It is one of the few careers pays you more as you put in more effort.
 ---
 What can you contribute to Bayes?
 - Team player at heart, loves to share and improve the lives of others.
@@ -31,6 +31,10 @@ What can you contribute to Bayes?
 	- "Force multiplier" mindset
 ---
 What are your expecting from Bayes through your career?
+
+Honing the ability to gauge the ability, personality and mindset of people.
+Honing the ability to engage client.
+
 
 ---
 How long do you expect to be employed with Bayes?
