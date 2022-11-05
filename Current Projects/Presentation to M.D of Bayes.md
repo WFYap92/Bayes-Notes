@@ -56,3 +56,10 @@ What will your strategy be in building the Vertical’s desk within Bayes during
 
 ---
 Based on the information shared in this File, discuss and debate our views on Compensation (Salary)
+- Glassdoor Recruitment Consultant Salaries in Singapore Area $3,000 base salary, average additional bonuses of $12,000. About $4,000 per month. However, I have some experience in presenting and sales which should also be put into consideration.
+	- Ea Recruitment Pte. Ltd. $2.2k-$3.2k a month
+	- TALENT TRADER GROUP PTE. LTD. $3.5K–$6K a month
+	- Michael Page International $4.1k a month
+- 
+- Trainee Recruitment Consultant 
+	- Recruit Express Pte Ltd $2,800 - $3,500
