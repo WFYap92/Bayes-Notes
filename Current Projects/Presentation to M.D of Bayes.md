@@ -45,12 +45,12 @@ OR
 	- Regularly consume content related to productivity
 		- Not motivational but productive
 ---
-## What are your expecting from Bayes through your career?
+## What are you expecting from Bayes through your career?
 
-Honing the ability to gauge the ability, personality and mindset of people.
-Honing the ability to engage client.
-Guidance and mentorship
-A positive working environment
+- [ ] Honing the ability to gauge the ability, personality and mindset of people.
+- [ ] Honing the ability to engage client.
+- [ ] Guidance and mentorship
+- [ ] A positive working environment
 
 ---
 ## How long do you expect to be employed with Bayes?
