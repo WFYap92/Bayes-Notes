@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "69a43b15928f3ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Useful Obsidian Tricks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -120,15 +107,15 @@
   },
   "active": "210d11b1f1019bbf",
   "lastOpenFiles": [
-    "Vertical.md",
-    "General/Useful Obsidian Tricks.md",
     "Challenges and Obstacles.md",
     "Current Projects/Presentation to M.D of Bayes.md",
+    "Questions on 081122.md",
+    "Vertical.md",
+    "General/Useful Obsidian Tricks.md",
     "[.md",
     "Articles/In the Company of Givers and Takers by Adam Grant.md",
     "A new start for Newton.md",
     "General/Email.md",
-    "Communication/Boundaries.md",
-    "Communication/Communication.md"
+    "Communication/Boundaries.md"
   ]
 }
